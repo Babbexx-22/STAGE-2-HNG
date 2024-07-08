@@ -38,9 +38,7 @@ POSTGRES_SERVER=db
 POSTGRES_PORT=5432
 POSTGRES_DB=app
 ```
-
-N.B: Edit your environment variable here.
-
+- In the frontend directory, the .env file is to contain: ` VITE_API_URL=http://babbexx22.chickenkiller.com:8000 `
 
 ## Setup Instructions
 
